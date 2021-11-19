@@ -1,0 +1,16 @@
+.columns{
+    display:flex;
+
+}
+.columns article{
+    margin: 5px;
+    padding: 10px;
+    border: blue solid 1px ;
+}
+.text{
+    text-align:center;
+}
+.spacing{
+    display: flex;
+    gap: 870px;
+}
